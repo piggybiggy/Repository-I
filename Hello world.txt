@@ -1,7 +1,1 @@
-﻿This is the first repository！
-
-Is this added?
-
-真好！
-
-成功！
+﻿Test 1
